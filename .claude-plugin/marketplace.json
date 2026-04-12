@@ -17,7 +17,7 @@
         "email": "contact@marmut.app"
       },
       "homepage": "https://superbased.app",
-      "repository": "https://github.com/AskSuperBased/claude-code-plugin",
+      "repository": "https://github.com/marmutapp/superbased-claude-code-plugin",
       "license": "MIT",
       "category": "development",
       "tags": [

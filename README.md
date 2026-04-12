@@ -7,7 +7,7 @@ Screenshot capture, AI vision, OCR, screen recording, visual regression testing,
 ### Option 1: From Marketplace
 
 ```
-/plugin marketplace add AskSuperBased/claude-code-plugin
+/plugin marketplace add marmutapp/superbased-claude-code-plugin
 /plugin install superbased@superbased-tools
 ```
 
@@ -158,4 +158,4 @@ The Token Compression Engine converts large text blocks into optimized images, s
 
 - [SuperBased](https://superbased.app) — Desktop app download
 - [npm package](https://www.npmjs.com/package/superbased) — Headless CLI
-- [MCP Integration Guide](https://github.com/AskSuperBased/superbased/blob/main/docs/MCP_INTEGRATION_GUIDE.md) — Setup for all AI editors
+- [MCP Integration Guide](https://github.com/marmutapp/superbased-claude-code-plugin) — Plugin repo & setup guide
