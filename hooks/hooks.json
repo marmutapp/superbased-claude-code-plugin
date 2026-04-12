@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.command // empty' | grep -qE '(npm test|npx jest|npx vitest|pytest|cargo test|go test)' && curl -s -X POST http://127.0.0.1:47592/api/capture/fullscreen -H 'Content-Type: application/json' -d '{\"resolution\":\"quarter\"}' > /dev/null 2>&1 || true"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "superbased": {
+    "command": "superbased",
+    "args": ["mcp"]
+  }
+}

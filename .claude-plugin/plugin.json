@@ -1,0 +1,28 @@
+{
+  "name": "superbased",
+  "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, and proactive screen monitoring for Claude Code",
+  "version": "2.0.0",
+  "author": {
+    "name": "Gaja AI",
+    "email": "contact@marmut.app"
+  },
+  "homepage": "https://superbased.app",
+  "repository": "https://github.com/AskSuperBased/claude-code-plugin",
+  "license": "MIT",
+  "keywords": [
+    "screenshot",
+    "capture",
+    "screen-recording",
+    "ocr",
+    "visual-testing",
+    "visual-regression",
+    "token-compression",
+    "dictation",
+    "voice",
+    "monitor",
+    "ai-vision",
+    "clipboard",
+    "annotation",
+    "mcp"
+  ]
+}
