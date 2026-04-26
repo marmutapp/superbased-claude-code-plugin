@@ -1,7 +1,7 @@
 {
   "name": "superbased",
-  "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, and proactive screen monitoring for Claude Code",
-  "version": "2.0.0",
+  "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, full GUI automation with humanization v2, and proactive screen monitoring for Claude Code — 72 MCP tools",
+  "version": "2.0.2",
   "author": {
     "name": "Gaja AI",
     "email": "contact@marmut.app"
@@ -23,6 +23,11 @@
     "ai-vision",
     "clipboard",
     "annotation",
+    "gui-automation",
+    "click-automation",
+    "form-fill",
+    "captcha",
+    "humanization",
     "mcp"
   ]
 }

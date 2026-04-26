@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "superbased-tools",
-  "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, and proactive screen monitoring",
+  "description": "Screenshot capture, AI vision, OCR, screen recording, visual regression testing, token compression, voice dictation, full GUI automation with humanization v2, and proactive screen monitoring",
   "owner": {
     "name": "Gaja AI",
     "email": "contact@marmut.app"
@@ -10,8 +10,8 @@
     {
       "name": "superbased",
       "source": "./",
-      "description": "Give Claude Code eyes on your screen — capture, record, OCR, AI vision, visual QA, voice dictation, token compression, and proactive monitoring via 28 MCP tools",
-      "version": "2.0.0",
+      "description": "Give Claude Code eyes on your screen AND hands on the desktop — capture, record, OCR, AI vision, visual QA, voice dictation, token compression, proactive monitoring, and full GUI automation (click/type/scroll/drag/hotkey/form-fill) with humanization v2 + CAPTCHA-solving guidance, all via 72 MCP tools",
+      "version": "2.0.2",
       "author": {
         "name": "Gaja AI",
         "email": "contact@marmut.app"
@@ -30,6 +30,11 @@
         "dictation",
         "monitor",
         "ai-vision",
+        "gui-automation",
+        "click-automation",
+        "form-fill",
+        "captcha",
+        "humanization",
         "mcp"
       ]
     }
